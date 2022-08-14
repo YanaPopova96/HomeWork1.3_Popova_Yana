@@ -42,7 +42,7 @@ public class Main {
         System.out.println("Потребуется дней: " + deliveryDays);
 
         // Задание 5
-        int monthNumber = 4;
+        int monthNumber = 8;
         switch (monthNumber) {
             case 1:
                 System.out.println("Зима");
